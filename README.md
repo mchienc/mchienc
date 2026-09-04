@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,go,docker,git,mysql" />
+    <img src="https://skillicons.dev/icons?i=js,java,spring,go,docker,git,mysql" />
   </a>
 </p>
 
@@ -32,9 +32,5 @@
   <a href="https://instagram.com/_mihchi3n.dang" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-18181b?style=for-the-badge&logo=instagram&logoColor=E4405F" />
   </a>
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,spring,go,docker,git,mysql" />
-  </a>
-</p>
+  
 </p>
