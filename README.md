@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <a href="https://www.facebook.com/minhchien.05">
-    <img src="https://skillicons.dev/icons?i=facebook" />
+    <img src="https://skillicons.dev/icons?i=Facebook" />
   </a>
   <a href="mailto:dangchien2005@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
@@ -22,8 +22,9 @@
   </a>
 </p>
 
-
-### 🛠 Tech Stack
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Technologies+%26+Tools;My+Tech+Stack" alt="Tech Stack" />
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
