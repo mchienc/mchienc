@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/feature GIF.gif" width="800" alt="Banner Profile" />
+  <img src="assets/feature GIF.gif" width="1000" alt="Banner Profile" />
 </p>
 # Hi there, I'm Đặng Minh Chiến 
 
