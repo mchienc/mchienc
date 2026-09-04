@@ -1,3 +1,5 @@
+
+!(assets/feature GIF.gif)
 # Hi there, I'm Đặng Minh Chiến 
 
 Dự án hiện tại tập trung vào phát triển hệ thống Backend và ứng dụng thực tế.
