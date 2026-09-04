@@ -4,8 +4,8 @@ Dự án hiện tại tập trung vào phát triển hệ thống Backend và �
 
 - 🔭 Tôi đang xây dựng các dự án về **Microservices & Web Development**
 - 🌱 Đang tìm hiểu sâu hơn về **AI / Natural Language Processing**
-- 💬 Trao đổi với tôi về: Java, Python, Go, Flutter, Docker
-- 📫 Email: `your-email@example.com`
+- 💬 Trao đổi với tôi về: Java, Python, Go, Docker
+- 📫 Email: `dangchien2005@gmail.com`
 
 ---
 
