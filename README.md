@@ -2,7 +2,6 @@
   <img src="assets/feature GIF.gif" width="1000" alt="Banner Profile" />
 </p>
 
-<!-- 1. TECH STACK (ĐƯA LÊN TRƯỚC) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Technologies+%26+Tools;My+Tech+Stack" alt="Tech Stack" />
 </p>
@@ -13,7 +12,6 @@
   </a>
 </p>
 
-<!-- 2. CONTACT ME (ĐƯA XUỐNG CUỐI, PHONG CÁCH TỐI GIẢN) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Contact+Me;Let's+connect+and+chat!" alt="Contact Me" />
 </p>
