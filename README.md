@@ -1,5 +1,6 @@
-
-!(assets/feature GIF.gif)
+<p align="center">
+  <img src="assets/feature GIF.gif" width="600" alt="Banner Profile" />
+</p>
 # Hi there, I'm Đặng Minh Chiến 
 
 Dự án hiện tại tập trung vào phát triển hệ thống Backend và ứng dụng thực tế.
