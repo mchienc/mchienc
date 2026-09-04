@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Đặng Minh Chiến 
 
-<!--
-**mchienc/mchienc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dự án hiện tại tập trung vào phát triển hệ thống Backend và ứng dụng thực tế.
 
-Here are some ideas to get you started:
+- 🔭 Tôi đang xây dựng các dự án về **Microservices & Web Development**
+- 🌱 Đang tìm hiểu sâu hơn về **AI / Natural Language Processing**
+- 💬 Trao đổi với tôi về: Java, Python, Go, Flutter, Docker
+- 📫 Email: `your-email@example.com`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME]&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME]&layout=compact&theme=radical" alt="Top Langs" />
+</p>
